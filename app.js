@@ -14,7 +14,7 @@ app.use('/post',post)
 
 // Sample data for /post/all
 const posts = [
-  { id: 1, name: 'dhia', lastname: 'tarchoun' },
+  { id: 1, name: 'kacem', lastname: 'meherzi' },
   { id: 2, name: 'dhaw', lastname: 'dhaw' },
   // Add more posts as needed
 ];
